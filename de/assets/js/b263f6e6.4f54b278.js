@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevent_management_docs=self.webpackChunkevent_management_docs||[]).push([[901],{1600:function(e){e.exports=JSON.parse('{"allTagsPath":"/de/blog/tags","slug":"/de/blog/tags/docusaurus","name":"docusaurus","count":1,"permalink":"/de/blog/tags/docusaurus"}')}}]);
