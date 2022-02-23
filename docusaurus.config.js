@@ -9,6 +9,7 @@ const config = {
   title: 'Docs',
   tagline: 'Documentation for dispo tools',
   url: 'https://docs.dispo.tools',
+  trailingSlash: false,
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
